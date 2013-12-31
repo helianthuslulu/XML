@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gb2312"?>
+<?xml-stylesheet type="G:\xml/xsl" href="simple.xsl"?>
+<note>
+  <note1>
+  测试
+  </note1>
+  <food>
+    <name>Belgian Waffles</name>
+    <price>$5.95</price>
+    <description>
+       two of our famous Belgian Waffles
+    </description>
+    <calories>650</calories>
+  </food>
+</note> 
